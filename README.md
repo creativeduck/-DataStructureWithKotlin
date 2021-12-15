@@ -1,1 +1,1 @@
-# -DataStructureWithKotlin
+# 자료구조를 코틀린으로 공부한 것입니다.
